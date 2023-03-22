@@ -13,8 +13,6 @@
     <a href="https://github.com/erkutkoral/PIWORKS_PearInc_Project"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/PIWORKS_PearInc_Project/issues">Report Bug</a>
-    .
     
   </p>
 </p>

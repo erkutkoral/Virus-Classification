@@ -15,7 +15,7 @@
     <br/>
     <a href="https://github.com/erkutkoral/PIWORKS_PearInc_Project/issues">Report Bug</a>
     .
-    <a href="https://github.com/erkutkoral/PIWORKS_PearInc_Project/issues">Request Feature</a>
+    
   </p>
 </p>
 

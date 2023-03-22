@@ -10,14 +10,7 @@
     PI Works Data Analytics Intern Pear Inc Project.
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/PIWORKS_PearInc_Project"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    
-  </p>
-</p>
 
-![Contributors](https://img.shields.io/github/contributors/erkutkoral/PIWORKSQS?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/PIWORKS_PearInc_Project) 
 
 ## Table Of Contents
 

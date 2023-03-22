@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/erkutkoral/PIWORKSQS">
+  <a href="https://github.com/erkutkoral/PIWORKS_PearInc_Project">
     <img src="https://piworks.net/assets/imgs/Site/piworks-share.png" alt="Logo" width="800" height="400">
   </a>
 

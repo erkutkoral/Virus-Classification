@@ -30,8 +30,6 @@
 
 ## About The Project
 
-![About the Project](https://www.responsedga.com/wp-content/uploads/2021/02/Incontent_image.png)
-
 There 4 dimensional (4 feature) numerical inputs (signatures) with labels! We need a simple model that takes these inputs and labels them (Virus, Not a Virus)
 
 
